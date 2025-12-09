@@ -1,5 +1,6 @@
-# sh184roman-Assessing-Service-Quality-and-Its-Influence-on-Customer-Satisfaction-in-a-SaaS-Context of Pragati IT Solution, Nepal
+# Assessing Service Quality and Its Influence on Customer Satisfaction in a SaaS Context of Pragati IT Solution, Nepal
 Abstract
+
 
 This study investigates the dimensions of service quality and its influence on customer satisfaction within the Software as a Service (SaaS) context of Pragati IT Solution, Nepal, which is a rapidly growing provider of cloud-based Information Management System (IMS) software for educational institutions in Nepal. Despite the SaaS service quality has been widely researched in developed countries, limited empirical studies exist in the context of underdeveloped countries like Nepal. This study is guided by the SaaS-Qual framework developed by Benlian et al. (2011), adopts a positivist philosophy, deductive approach, mono-method quantitative design, and cross-sectional survey strategy to assess key service quality dimensions such as responsiveness, rapport, reliability, feature, flexibility and security. Primary data were collected from 129 active SaaS users through a structured questionnaire and analysed using descriptive statistics, reliability and validity tests, Principal Component Analysis, correlation analysis, and regression modelling.
 
