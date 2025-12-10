@@ -10,4 +10,3 @@ This study contributes context-specific empirical evidence to the limited SaaS s
 
 Read More: https://github.com/sh184roman/sh184roman-Assessing-Service-Quality-and-Its-Influence-on-Customer-Satisfaction-in-a-SaaS-Context/blob/cc337b4efd3da16abe630037a03653dfe147b69b/Assessing%20Service%20Quality%20and%20Its%20Influence%20on%20Customer%20Satisfaction%20in%20a%20SaaS%20Context.pdf
 
-<img width="468" height="656" alt="image" src="https://github.com/user-attachments/assets/158530a8-7a6c-42a0-af96-5a4bb421ed82" />
