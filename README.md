@@ -8,5 +8,6 @@ Findings of the study indicate that flexibility, reliability, and features are t
 
 This study contributes context-specific empirical evidence to the limited SaaS service quality and customer satisfaction research in Nepal and offers actionable recommendations, such as enhancing system flexibility, strengthening reliability, optimising feature design, and improving the user support mechanism for Pragati IT Solution and other Nepalese SaaS providers (Good, Mangus and Ellen Bolman Pullins, 2023). The research also highlights methodological and practical limitations and identifies opportunities for future studies to explore mediating variables and longitudinal user experience in Nepal’s evolving SaaS ecosystem.
 
-Read More: https://github.com/sh184roman/sh184roman-Assessing-Service-Quality-and-Its-Influence-on-Customer-Satisfaction-in-a-SaaS-Context/blob/cc337b4efd3da16abe630037a03653dfe147b69b/Assessing%20Service%20Quality%20and%20Its%20Influence%20on%20Customer%20Satisfaction%20in%20a%20SaaS%20Context.pdf
+[Read the Full Paper](https://github.com/sh184roman/sh184roman-Assessing-Service-Quality-and-Its-Influence-on-Customer-Satisfaction-in-a-SaaS-Context/blob/main/Assessing%20Service%20Quality%20and%20Its%20Influence%20on%20Customer%20Satisfaction%20in%20a%20SaaS%20Context.pdf)
+
 
