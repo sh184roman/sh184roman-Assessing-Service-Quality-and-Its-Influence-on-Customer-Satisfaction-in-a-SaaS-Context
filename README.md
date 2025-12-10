@@ -1,4 +1,4 @@
-# Assessing Service Quality and Its Influence on Customer Satisfaction in a SaaS Context of Pragati IT Solution, Nepal
+# Assessing Service Quality and Its Influence on Customer Satisfaction in a SaaS Context: a Case Study of Pragati IT Solution, Nepal
 
 ### Roman Shrestha
 
